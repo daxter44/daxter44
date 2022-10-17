@@ -32,5 +32,5 @@
 </p>
 <p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Daxter44&theme=dark" alt="github-streak-stats"/>
-    <img style="padding-top: 24px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daxter44&exclude_repo=Wall-E-2.1&langs_count=8&layout=compact&theme=dark" alt="github-lang-stats" />
+    <img style="padding-top: 24px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daxter44&&exclude_repo=Kurs-Ml&langs_count=8&layout=compact&theme=dark&count_private=true" alt="github-lang-stats" />
 </p>
