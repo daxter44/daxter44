@@ -1,9 +1,10 @@
 ![Header](./github-header-image.png)
 
 ## About me
-- I'm currently working as a Angular Developer at [Euvic](https://www.euvic.com/)
-- I'm currently learning frontend web-dev approach, to be full-stack developer.
-- I'm also spended 5 years in .NET environment 
+- I'm currently working as a FullStack Developer at [Euvic](https://www.euvic.com/)
+- I'm mastering event-driven architecture. On a daily basis, I develop distributed software based on .NET microservices, Kafka and Azure. 
+- I'm also spended 2 years in Angular environment 
+- I'm also spended 7 years in .NET environment 
 - I'm familiar with MS Sql databases
 - Always looking to collaborate on projects, learn and share my knowledge
 - You can always reach out to me on:
